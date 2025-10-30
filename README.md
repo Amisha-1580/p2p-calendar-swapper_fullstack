@@ -61,4 +61,4 @@ All protected endpoints require `Authorization: Bearer <token>` header.
 - Timezones: timestamps are strings (ISO). The sample UI shows them as-is; for production convert times to UTC and display locale-correct.
 
 ## Author
-Your Name
+Amisha Bhasme
